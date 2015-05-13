@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"CustomVolleyImplementation "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!--Server Error message-->
+    <string name="no_network_error">Network not available</string>
+    <string name="server_error">Server error</string>
+    <string name="timeout_error">Timeout error</string>
+    <string name="default_error">Operational error</string>
+</resources>
